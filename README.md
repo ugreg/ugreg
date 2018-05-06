@@ -1,5 +1,5 @@
 
-<img src="imgs/md/user.svg">
+<img src="imgs/md/user-blue.svg">
 
 # Project Name
 
