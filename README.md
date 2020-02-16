@@ -5,7 +5,7 @@
 
 # Project
 
-| <img  src="img/timerball.png"> [![License: MIT](https://img.shields.io/badge/License-MIT-grey.svg)](https://opensource.org/licenses/MIT) |
+| <img src="img/poke.svg" height="16"> [![License: MIT](https://img.shields.io/badge/License-MIT-grey.svg)](https://opensource.org/licenses/MIT) |
 | :------------------------|
 
 | <h1 align="center">Topic</h1><p align="center"><img src="img/p1.png" height="24"></p> | <h1 align="center">Topic</h1><p align="center"><img src="img/p2.png" height="24"></p> | <h1 align="center">Topic</h1><p align="center"><img src="img/p3.png" height="24"></p> | <h1 align="center">Topic</h1><p align="center"><img src="img/p4.png" height="24"></p> |
