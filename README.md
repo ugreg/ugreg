@@ -1,11 +1,8 @@
 <p align="center"><img src="img/red.png"></p>
 
-[//]: # (TODO: Add MIT License)
-[//]: # (TODO: Implement Travis or Circle CI)
-
 # Project
 
-| <img src="img/poke.svg" height="16"> [![License: MIT](https://img.shields.io/badge/License-MIT-grey.svg)](https://opensource.org/licenses/MIT) | <img src="img/poke.svg" height="16"> `TODO: Travis or Circle CI` |
+| <img src="img/poke.svg" height="16"> [![License: MIT](https://img.shields.io/badge/License-MIT-grey.svg)](https://opensource.org/licenses/MIT) `TODO: Add MIT License` | <img src="img/poke.svg" height="16"> `TODO: Travis or Circle CI` |
 | :- | :- |
 
 | <h1 align="center">Topic</h1><p align="center"><img src="img/p1.png" height="24"></p> | <h1 align="center">Topic</h1><p align="center"><img src="img/p2.png" height="24"></p> | <h1 align="center">Topic</h1><p align="center"><img src="img/p3.png" height="24"></p> | <h1 align="center">Topic</h1><p align="center"><img src="img/p4.png" height="24"></p> | <h1 align="center">Topic</h1><p align="center"><img src="img/p5.png" height="24"></p> | <h1 align="center">Topic</h1><p align="center"><img src="img/p6.png" height="24"></p> |
