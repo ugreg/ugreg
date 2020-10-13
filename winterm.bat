@@ -1,1 +1,0 @@
-wt -p "Ubuntu" ; split-pane -p "Ubuntu" -d "." ; split-pane -p "Ubuntu" -d "."
