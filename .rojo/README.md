@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ugreg/ugreg/blob/main/.rojo/img/red.png"></p>
+<p align="center"><img src="https://github.com/ugreg/ugreg/blob/main/.rojo/img/aka.png"></p>
 
 # ᴾᴋᴹɴ Trainer Red 
 
