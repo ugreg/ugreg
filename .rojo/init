@@ -1,0 +1,6 @@
+git checkout --orphan temp
+git add -A
+git commit -m 'Initial commit'
+git branch -m m foo
+git branch -m temp m
+git push -f origin m
